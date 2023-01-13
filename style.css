@@ -8,13 +8,6 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.cabeçalho img{
-    max-width: 80px;
-    max-height: 80px;
-    width: auto;
-    height: auto;
-}
-
 .cabeçalho{
     display: flex;
     justify-content: space-between;
