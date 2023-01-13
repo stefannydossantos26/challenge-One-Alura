@@ -1,2 +1,4 @@
 # challenge-One-Alura
-Projeto decodificador e codificador de texto
+Nesse projeto aprendi a fazer um Codificador de Texto 👩‍💻
+
+
